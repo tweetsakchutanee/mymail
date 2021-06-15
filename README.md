@@ -1,0 +1,2 @@
+# mymail
+com.my.mail
