@@ -2,6 +2,7 @@
 com.my.mail
 #
 /*
+[![Repo Sync Stalls](https://github.com/github/docs/actions/workflows/repo-sync-stalls.yml/badge.svg)](https://github.com/github/docs/actions/workflows/repo-sync-stalls.yml)
 
  *****************************************************************************
 
